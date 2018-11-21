@@ -3,7 +3,7 @@ this is a quick wrapper around gam to audit your organization's google drive and
 
 assumes:
 - gam is setup 
-- you have full access your company's to google apps
+- you have full access your company's google apps
 
 usage: <code>./googledriveaudit.py \<userEmailAddress\></code>
 
