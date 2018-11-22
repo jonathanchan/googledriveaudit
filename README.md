@@ -1,5 +1,5 @@
 # googledriveaudit
-this is a quick wrapper around gam to audit your organization's google drive and look for files that are shared outside your company's domain. this is really slow, but it does the job and i'm not spending money on 3rd party tools that charge per user.
+this is a quick wrapper around gam to audit your organization's google drive and look for files that are shared outside your org's domain. this is really slow, but it does the job and i'm not spending money on 3rd party tools that charge per user.
 
 assumes:
 - gam is setup 
